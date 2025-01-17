@@ -2,10 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* NavBar Logo */
+.navbar-brand img{
+  width: 200px;
+} 
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bosque.jfif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
